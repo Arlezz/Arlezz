@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Arlezz junior developer from chile 💻🧑🏻
-- 👀 I’m interested in learn new technologies
-- 🌱 I’am currently learning Android development
-- 💞️ I’am looking to collaborate in a software development company
-- 📫 How to reach me:
+- 👋 Hi, I'm @Arlezz a chilean junior developer 💻🧑🏻
+- 👀 I'm interested in learning new technologies.
+- 🌱 I'm currently learning deep learning.
+- 💞️ I am looking to collaborate in a software development company.
+- 📫 How to contact me:
      -Email: antonyrodriguezc.2001@gmail.com
 
 <!---
